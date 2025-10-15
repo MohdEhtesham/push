@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "127594954524",
+    "project_id": "ehtesham-af58a",
+    "storage_bucket": "ehtesham-af58a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127594954524:android:fa83cabe0ac8c16f6c04d9",
+        "android_client_info": {
+          "package_name": "com.ehte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-JstaaFhkqIXllyF3rvfzLgqYm7OLvlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127594954524:android:947c0018cbcc5bb76c04d9",
+        "android_client_info": {
+          "package_name": "com.ehtesham"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-JstaaFhkqIXllyF3rvfzLgqYm7OLvlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
